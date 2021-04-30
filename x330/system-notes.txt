@@ -1,8 +1,19 @@
 [x330 mod notes]
 	power button = brightness levels, this was part of the x330 mod
 	NOTE: display is weird and wacky in terms of DPI and scale.  I made a reddit post and someone mentioned to me how the configs should look.  Copy those if system needs to be restarted.
+		--the username for the reddit was was n0tatest
 
 [system programs that do things]
-	pulsemixer = replace pavucontrol.  pavucontrol is buggy, the GUI takes forever to load
+	pulsemixer = replaces pavucontrol
 	alsamixer = volume control
 	nm-applet = wifi/ethernet control
+		--nm-applet also has nmcli and nmtui as alternate ways to access networkmanager
+
+[TODO]
+	hook in dunst commands for notificatoins in the system
+	nerdfont form github was downloading, apply those later
+	try to get icons to work in terminal
+	make i3bar look better
+	symlink and all the importat files for the x330 machine and push them to github so I don't lose them when or if I need to reinstall
+
+[NOTES]
