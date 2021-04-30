@@ -1,0 +1,69 @@
+2021/04/30-00:20:23.800 1f4f Reusing MANIFEST /home/pcs/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2021/04/30-00:20:23.801 1f4f Recovering log #483
+2021/04/30-00:20:23.801 1f4f Reusing old log /home/pcs/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000483.log 
+2021/04/30-00:21:27.193 1f4b Level-0 table #487: started
+2021/04/30-00:21:27.261 1f4b Level-0 table #487: 5691822 bytes OK
+2021/04/30-00:21:27.264 1f4b Delete type=0 #483
+2021/04/30-00:21:29.172 1f4b Level-0 table #489: started
+2021/04/30-00:21:29.241 1f4b Level-0 table #489: 5691569 bytes OK
+2021/04/30-00:21:29.242 1f4b Delete type=0 #486
+2021/04/30-00:21:31.408 1f78 Level-0 table #491: started
+2021/04/30-00:21:31.483 1f78 Level-0 table #491: 5690660 bytes OK
+2021/04/30-00:21:31.486 1f78 Delete type=0 #488
+2021/04/30-00:21:31.489 1f78 Compacting 4@0 + 2@1 files
+2021/04/30-00:21:31.621 1f78 Generated table #492@0: 1 keys, 5690660 bytes
+2021/04/30-00:21:31.624 1f78 Generated table #493@0: 7 keys, 432 bytes
+2021/04/30-00:21:31.624 1f78 Compacted 4@0 + 2@1 files => 5691092 bytes
+2021/04/30-00:21:31.626 1f78 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/04/30-00:21:31.626 1f78 Delete type=2 #487
+2021/04/30-00:21:31.626 1f78 Delete type=2 #491
+2021/04/30-00:21:31.626 1f78 Delete type=2 #481
+2021/04/30-00:21:31.626 1f78 Delete type=2 #482
+2021/04/30-00:21:31.626 1f78 Delete type=2 #484
+2021/04/30-00:21:31.626 1f78 Delete type=2 #489
+2021/04/30-00:21:32.350 1f78 Level-0 table #495: started
+2021/04/30-00:21:32.424 1f78 Level-0 table #495: 5690660 bytes OK
+2021/04/30-00:21:32.427 1f78 Delete type=0 #490
+2021/04/30-00:21:34.883 1f4b Level-0 table #497: started
+2021/04/30-00:21:34.962 1f4b Level-0 table #497: 5684967 bytes OK
+2021/04/30-00:21:34.966 1f4b Delete type=0 #494
+2021/04/30-00:22:46.124 344d Level-0 table #499: started
+2021/04/30-00:22:46.192 344d Level-0 table #499: 5684773 bytes OK
+2021/04/30-00:22:46.195 344d Delete type=0 #496
+2021/04/30-01:21:28.411 3890b Level-0 table #501: started
+2021/04/30-01:21:28.478 3890b Level-0 table #501: 5684961 bytes OK
+2021/04/30-01:21:28.483 3890b Delete type=0 #498
+2021/04/30-01:21:28.484 3890b Compacting 4@0 + 2@1 files
+2021/04/30-01:21:28.622 3890b Generated table #502@0: 1 keys, 5684781 bytes
+2021/04/30-01:21:28.626 3890b Generated table #503@0: 7 keys, 433 bytes
+2021/04/30-01:21:28.626 3890b Compacted 4@0 + 2@1 files => 5685214 bytes
+2021/04/30-01:21:28.628 3890b compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/04/30-01:21:28.629 3890b Delete type=2 #495
+2021/04/30-01:21:28.629 3890b Delete type=2 #492
+2021/04/30-01:21:28.629 3890b Delete type=2 #501
+2021/04/30-01:21:28.629 3890b Delete type=2 #499
+2021/04/30-01:21:28.629 3890b Delete type=2 #497
+2021/04/30-01:21:28.629 3890b Delete type=2 #493
+2021/04/30-01:24:08.029 419b1 Level-0 table #505: started
+2021/04/30-01:24:08.120 419b1 Level-0 table #505: 5684781 bytes OK
+2021/04/30-01:24:08.125 419b1 Delete type=0 #500
+2021/04/30-02:21:28.353 742b5 Level-0 table #507: started
+2021/04/30-02:21:28.433 742b5 Level-0 table #507: 5685018 bytes OK
+2021/04/30-02:21:28.436 742b5 Delete type=0 #504
+2021/04/30-02:21:28.710 742b5 Level-0 table #509: started
+2021/04/30-02:21:28.791 742b5 Level-0 table #509: 5684781 bytes OK
+2021/04/30-02:21:28.793 742b5 Delete type=0 #506
+2021/04/30-02:28:04.100 7944c Level-0 table #511: started
+2021/04/30-02:28:04.174 7944c Level-0 table #511: 5684975 bytes OK
+2021/04/30-02:28:04.176 7944c Delete type=0 #508
+2021/04/30-02:28:04.179 7b151 Compacting 4@0 + 2@1 files
+2021/04/30-02:28:04.315 7b151 Generated table #512@0: 1 keys, 5684781 bytes
+2021/04/30-02:28:04.320 7b151 Generated table #513@0: 7 keys, 432 bytes
+2021/04/30-02:28:04.320 7b151 Compacted 4@0 + 2@1 files => 5685213 bytes
+2021/04/30-02:28:04.322 7b151 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/04/30-02:28:04.322 7b151 Delete type=2 #507
+2021/04/30-02:28:04.322 7b151 Delete type=2 #502
+2021/04/30-02:28:04.322 7b151 Delete type=2 #511
+2021/04/30-02:28:04.322 7b151 Delete type=2 #505
+2021/04/30-02:28:04.322 7b151 Delete type=2 #503
+2021/04/30-02:28:04.322 7b151 Delete type=2 #509

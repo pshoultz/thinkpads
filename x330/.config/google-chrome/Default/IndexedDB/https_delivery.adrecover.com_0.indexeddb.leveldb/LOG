@@ -1,0 +1,15 @@
+2021/04/30-02:28:09.789 7b4cb Reusing MANIFEST /home/pcs/.config/google-chrome/Default/IndexedDB/https_delivery.adrecover.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/30-02:28:09.789 7b4cb Recovering log #32
+2021/04/30-02:28:09.789 7b4cb Reusing old log /home/pcs/.config/google-chrome/Default/IndexedDB/https_delivery.adrecover.com_0.indexeddb.leveldb/000032.log 
+2021/04/30-02:28:14.975 7b4c8 Level-0 table #36: started
+2021/04/30-02:28:14.976 7b4c8 Level-0 table #36: 190 bytes OK
+2021/04/30-02:28:14.977 7b4c8 Delete type=0 #32
+2021/04/30-02:28:14.978 7b4c8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/30-02:28:14.978 7b4c8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 10 : 1
+2021/04/30-02:28:14.978 7b4c8 Compacting 1@1 + 1@2 files
+2021/04/30-02:28:14.979 7b4c8 Generated table #37@1: 8 keys, 362 bytes
+2021/04/30-02:28:14.979 7b4c8 Compacted 1@1 + 1@2 files => 362 bytes
+2021/04/30-02:28:14.980 7b4c8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/30-02:28:14.981 7b4c8 Delete type=2 #9
+2021/04/30-02:28:14.981 7b4c8 Delete type=2 #36
+2021/04/30-02:28:14.981 7b4c8 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 10 : 1 .. (end); will stop at (end)

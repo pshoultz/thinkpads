@@ -1,0 +1,8 @@
+2021/04/29-03:05:03.089 23da0 Reusing MANIFEST /home/pcs/.config/google-chrome/Default/IndexedDB/https_redditad.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/29-03:05:03.089 23da0 Recovering log #17
+2021/04/29-03:05:03.089 23da0 Reusing old log /home/pcs/.config/google-chrome/Default/IndexedDB/https_redditad.com_0.indexeddb.leveldb/000017.log 
+2021/04/29-03:05:13.349 23da0 Level-0 table #21: started
+2021/04/29-03:05:13.349 23da0 Level-0 table #21: 0 bytes OK
+2021/04/29-03:05:13.358 23da0 Delete type=0 #17
+2021/04/29-03:05:13.359 23da0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/29-03:05:13.359 23da0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

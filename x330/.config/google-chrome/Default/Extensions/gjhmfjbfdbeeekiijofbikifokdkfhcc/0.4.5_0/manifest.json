@@ -1,0 +1,20 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "content_scripts": [ {
+      "css": [ "css/font-awesome.min.css" ],
+      "js": [ "js/inject/debug.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Extends the Developer Tools, adding tools for debugging and profiling AngularJS applications. Based on AngularJS Batarang",
+   "devtools_page": "devtoolsBackground.html",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqTpyxTSojjJ2UwwAGfZGC1f+n9MFDwjCKQnlx8jNVMqiFTLGIvIy6+ldD7R+hcSkyTp66RiFu7i8JTetaXSFyGBqJTcqzlMEDXqwS26579N79pYLwWcUm815MIFb5LlH6C1/9m3BYVvl2Ajzcg2j9MRHxkqUdhkOUgrFOcdIEy4PiWLKMEiI4rr9kCDof5wcQ0/BPNIq+3FmbkAfpfQrrrv0dyzcMGDl3izuOnxHSEpXD2RQmOGcETgY/NppUXPUUWaJzvsn50hl2t7E+fZNbjbTZy0SYcKtNmb1FJ/YWWItfZGkVOzCaO0HV6NAZJlIfZEp8WgDLwKrtWhhfkpZgQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "21.0.1180.57",
+   "name": "AngularJS Inspector",
+   "permissions": [ "tabs", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.4.5"
+}

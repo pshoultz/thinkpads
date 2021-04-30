@@ -1,0 +1,6 @@
+2021/04/21-02:43:46.184 5f35 Creating DB /home/pcs/.config/google-chrome/Default/IndexedDB/https_vim.fandom.com_0.indexeddb.leveldb since it was missing.
+2021/04/21-02:43:46.193 5f35 Reusing MANIFEST /home/pcs/.config/google-chrome/Default/IndexedDB/https_vim.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/21-02:43:56.633 5efb Level-0 table #5: started
+2021/04/21-02:43:56.635 5efb Level-0 table #5: 2710 bytes OK
+2021/04/21-02:43:56.637 5efb Delete type=0 #3
+2021/04/21-02:43:56.637 5efb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

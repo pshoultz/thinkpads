@@ -1,0 +1,30 @@
+00:00:00.389540 VirtualBox GUI VM Selector Window 6.1.20 r143896 linux.amd64 (Apr 20 2021 19:34:06) release log
+00:00:00.389542 Log opened 2021-04-23T06:08:37.706904000Z
+00:00:00.389543 Build Type: release
+00:00:00.389545 OS Product: Linux
+00:00:00.389546 OS Release: 5.11.16-arch1-1
+00:00:00.389546 OS Version: #1 SMP PREEMPT Wed, 21 Apr 2021 17:22:13 +0000
+00:00:00.389566 DMI Product Name: 2325V1V
+00:00:00.389573 DMI Product Version: ThinkPad X230
+00:00:00.389578 Firmware type: UEFI
+00:00:00.389792 Secure Boot: Disabled
+00:00:00.389824 Host RAM: 15824MB (15.4GB) total, 15564MB (15.1GB) available
+00:00:00.389830 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.389830 Process ID: 581
+00:00:00.389830 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.389856 Qt version: 5.15.2
+00:00:00.419817 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.993186 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x18 x 640x782
+00:00:01.047456 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:21.980888 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:21.992033 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:36.107581 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:10.980539 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:37.763805 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:04.858821 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:04.879025 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:05.385423 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:04:05.402798 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:18.470393 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:48.972921 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:04:49.046223 GUI: UIMediumEnumerator: Medium-enumeration finished!

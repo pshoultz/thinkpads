@@ -1,0 +1,6 @@
+2021/04/19-02:07:14.955 666 Creating DB /home/pcs/.config/chromium/Profile 2/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb since it was missing.
+2021/04/19-02:07:14.960 666 Reusing MANIFEST /home/pcs/.config/chromium/Profile 2/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/19-02:07:30.352 59e Level-0 table #5: started
+2021/04/19-02:07:30.356 59e Level-0 table #5: 364 bytes OK
+2021/04/19-02:07:30.358 59e Delete type=0 #3
+2021/04/19-02:07:30.359 59e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,14 @@
+2021/04/29-04:05:32.299 4141a Reusing MANIFEST /home/pcs/.config/google-chrome/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/29-04:05:32.299 4141a Recovering log #186
+2021/04/29-04:05:32.299 4141a Reusing old log /home/pcs/.config/google-chrome/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/000186.log 
+2021/04/29-04:05:32.299 4141a Delete type=2 #184
+2021/04/29-04:05:32.912 41434 Level-0 table #191: started
+2021/04/29-04:05:32.914 41434 Level-0 table #191: 3288 bytes OK
+2021/04/29-04:05:32.918 41434 Delete type=0 #186
+2021/04/29-04:05:32.918 41434 Manual compaction at level-0 from '\x003\x00\x00\x00' @ 72057594037927935 : 1 .. '\x004\x00\x00\x00' @ 0 : 0; will stop at '\x003\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 9105 : 1
+2021/04/29-04:05:32.918 41434 Compacting 1@0 + 1@1 files
+2021/04/29-04:05:32.921 41434 Generated table #192@0: 515 keys, 12723 bytes
+2021/04/29-04:05:32.921 41434 Compacted 1@0 + 1@1 files => 12723 bytes
+2021/04/29-04:05:32.925 41434 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/29-04:05:32.925 41434 Delete type=2 #191
+2021/04/29-04:05:32.925 41434 Manual compaction at level-0 from '\x003\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 9105 : 1 .. '\x004\x00\x00\x00' @ 0 : 0; will stop at (end)

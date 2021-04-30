@@ -1,0 +1,15 @@
+2021/04/28-18:40:26.046 32aa6 Reusing MANIFEST /home/pcs/.config/google-chrome/Default/IndexedDB/https_quizlet.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/28-18:40:26.047 32aa6 Recovering log #4
+2021/04/28-18:40:26.047 32aa6 Reusing old log /home/pcs/.config/google-chrome/Default/IndexedDB/https_quizlet.com_0.indexeddb.leveldb/000004.log 
+2021/04/28-19:01:27.493 38762 Level-0 table #8: started
+2021/04/28-19:01:27.498 38762 Level-0 table #8: 901 bytes OK
+2021/04/28-19:01:27.500 38762 Delete type=0 #4
+2021/04/28-19:01:27.500 38762 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/28-19:01:27.500 38762 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 229 : 1
+2021/04/28-19:01:27.500 38762 Compacting 1@1 + 1@2 files
+2021/04/28-19:01:27.503 38762 Generated table #9@1: 68 keys, 1375 bytes
+2021/04/28-19:01:27.503 38762 Compacted 1@1 + 1@2 files => 1375 bytes
+2021/04/28-19:01:27.505 38762 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/28-19:01:27.505 38762 Delete type=2 #8
+2021/04/28-19:01:27.505 38762 Delete type=2 #5
+2021/04/28-19:01:27.505 38762 Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 229 : 1 .. (end); will stop at (end)

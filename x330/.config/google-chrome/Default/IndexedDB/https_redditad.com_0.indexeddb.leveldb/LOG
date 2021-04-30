@@ -1,0 +1,15 @@
+2021/04/30-01:18:37.132 3baae Reusing MANIFEST /home/pcs/.config/google-chrome/Default/IndexedDB/https_redditad.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/30-01:18:37.133 3baae Recovering log #20
+2021/04/30-01:18:37.133 3baae Reusing old log /home/pcs/.config/google-chrome/Default/IndexedDB/https_redditad.com_0.indexeddb.leveldb/000020.log 
+2021/04/30-01:18:54.566 3baae Level-0 table #24: started
+2021/04/30-01:18:54.570 3baae Level-0 table #24: 190 bytes OK
+2021/04/30-01:18:54.575 3baae Delete type=0 #20
+2021/04/30-01:18:54.575 3baae Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/30-01:18:54.575 3baae Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 10 : 1
+2021/04/30-01:18:54.575 3baae Compacting 1@1 + 1@2 files
+2021/04/30-01:18:54.579 3baae Generated table #25@1: 8 keys, 342 bytes
+2021/04/30-01:18:54.579 3baae Compacted 1@1 + 1@2 files => 342 bytes
+2021/04/30-01:18:54.584 3baae compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/30-01:18:54.584 3baae Delete type=2 #9
+2021/04/30-01:18:54.584 3baae Delete type=2 #24
+2021/04/30-01:18:54.585 3baae Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 10 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/04/21-03:01:30.559 6450 Creating DB /home/pcs/.config/google-chrome/Default/IndexedDB/https_www.techwalla.com_0.indexeddb.leveldb since it was missing.
+2021/04/21-03:01:30.565 6450 Reusing MANIFEST /home/pcs/.config/google-chrome/Default/IndexedDB/https_www.techwalla.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/21-03:02:20.426 6737 Level-0 table #5: started
+2021/04/21-03:02:20.431 6737 Level-0 table #5: 19459 bytes OK
+2021/04/21-03:02:20.434 6737 Delete type=0 #3
+2021/04/21-03:02:20.434 6737 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

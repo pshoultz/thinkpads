@@ -1,0 +1,8 @@
+2021/04/29-02:28:05.527 11765 Reusing MANIFEST /home/pcs/.config/google-chrome/Default/IndexedDB/https_delivery.adrecover.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/29-02:28:05.527 11765 Recovering log #29
+2021/04/29-02:28:05.527 11765 Reusing old log /home/pcs/.config/google-chrome/Default/IndexedDB/https_delivery.adrecover.com_0.indexeddb.leveldb/000029.log 
+2021/04/29-02:28:15.027 10cc9 Level-0 table #33: started
+2021/04/29-02:28:15.027 10cc9 Level-0 table #33: 0 bytes OK
+2021/04/29-02:28:15.032 10cc9 Delete type=0 #29
+2021/04/29-02:28:15.032 10cc9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/29-02:28:15.032 10cc9 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

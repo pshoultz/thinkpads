@@ -1,0 +1,71 @@
+separator=false
+separator_block_width=5
+border_top=0
+border_left=0
+border_right=0
+border_bottom=2
+
+#[volume]
+#command= /home/pcs/.config/i3blocks/scripts/test.sh
+#interval=1
+#separator_block_width=20
+
+#[ethernet]
+#command= /home/pcs/.config/i3blocks/scripts/ethernet.sh
+#interval=1
+#markup=pango
+#separator_block_width=20
+
+#[wifi]
+#command= /home/pcs/.config/i3blocks/scripts/wifi.sh
+#interval=1
+#markup=pango
+#separator_block_width=20
+
+[cpu]
+label=CPU:
+command= /home/pcs/.config/i3blocks/scripts/cpu.sh
+interval=1
+markup=pango
+separator_block_width=20
+
+[disk]
+label=💾 
+command= /home/pcs/.config/i3blocks/scripts/disk.sh
+interval=1
+markup=pango
+separator_block_width=20
+
+#[internet]
+#command= /home/pcs/.config/i3blocks/scripts/internet.sh
+#interval=1
+#markup=pango
+#separator_block_width=20
+
+[temperature]
+label=🔥 
+command= /home/pcs/.config/i3blocks/scripts/temp.sh
+interval=1
+markup=pango
+separator_block_width=20
+
+[memory]
+label=RAM:
+command= /home/pcs/.config/i3blocks/scripts/memory.sh
+interval=1
+markup=pango
+separator_block_width=20
+
+[battery]
+label=BAT:
+command= /home/pcs/.config/i3blocks/scripts/battery.sh
+interval=1
+markup=pango
+separator_block_width=20
+
+
+[time]
+command= echo "`date +'%a %d %b'` <b>`date +'%T'`</b> "; [[ -z "${BLOCK_BUTTON}" ]] || i3-msg exec termite
+interval=1
+markup=pango
+separator_block_width=0
