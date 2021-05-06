@@ -7,7 +7,8 @@
 	pulsemixer = replaces pavucontrol
 	alsamixer = volume control
 	nm-applet = wifi/ethernet control
-		--nm-applet also has nmcli and nmtui as alternate ways to access networkmanager
+		-- nm-applet also has nmcli and nmtui as alternate ways to access networkmanager
+		!! NOTE: nmtui is the replacement i've been going to
 
 [TODO]
 	hook in dunst commands for notificatoins in the system
